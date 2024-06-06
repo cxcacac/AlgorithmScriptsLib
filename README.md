@@ -1,2 +1,2 @@
-# AlgorithmScriptsLib
-all algorithms i learned
+# Algorithms
+some implementation of classic algorithms, mainly to record the learning process.
